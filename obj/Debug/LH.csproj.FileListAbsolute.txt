@@ -27,3 +27,16 @@ D:\Student_Project\LegalHelper\obj\Debug\LH.csproj.GenerateResource.cache
 D:\Student_Project\LegalHelper\obj\Debug\LH.csproj.CoreCompileInputs.cache
 D:\Student_Project\LegalHelper\obj\Debug\LH.exe
 D:\Student_Project\LegalHelper\obj\Debug\LH.pdb
+D:\Student_Project\Legal_Helper\bin\Debug\LH.exe.config
+D:\Student_Project\Legal_Helper\bin\Debug\LH.exe
+D:\Student_Project\Legal_Helper\bin\Debug\LH.pdb
+D:\Student_Project\Legal_Helper\obj\Debug\LH.csproj.AssemblyReference.cache
+D:\Student_Project\Legal_Helper\obj\Debug\LH.exe.config
+D:\Student_Project\Legal_Helper\obj\Debug\LH.admin_user.resources
+D:\Student_Project\Legal_Helper\obj\Debug\LH.Form1.resources
+D:\Student_Project\Legal_Helper\obj\Debug\LH.Properties.Resources.resources
+D:\Student_Project\Legal_Helper\obj\Debug\LH.csproj.GenerateResource.cache
+D:\Student_Project\Legal_Helper\obj\Debug\LH.csproj.CoreCompileInputs.cache
+D:\Student_Project\Legal_Helper\obj\Debug\LH.exe
+D:\Student_Project\Legal_Helper\obj\Debug\LH.pdb
+D:\Student_Project\Legal_Helper\obj\Debug\LH.Client.resources

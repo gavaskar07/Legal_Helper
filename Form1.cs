@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "admin_user";
-                    admin_user au = new admin_user();
+                    utilities.status= "Client";
+                    Client au = new Client();
                         au.Show();
                  
                 }
@@ -71,6 +71,11 @@ namespace LH
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
         {
 
         }
