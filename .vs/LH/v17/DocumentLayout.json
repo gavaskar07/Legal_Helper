@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|d:\\student_project\\legal_helper\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|D:\\Student_Project\\Legal_Helper\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|d:\\student_project\\legal_helper\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|D:\\Student_Project\\Legal_Helper\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|d:\\student_project\\legal_helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|D:\\Student_Project\\Legal_Helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,11 +27,11 @@
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:admin_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|d:\\student_project\\legal_helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|D:\\Student_Project\\Legal_Helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|d:\\student_project\\legal_helper\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|D:\\Student_Project\\Legal_Helper\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Client.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:27:43.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T15:27:43.702Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Client.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAqwCoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:27:25.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T15:27:25.754Z"
             },
             {
               "$type": "Document",
@@ -87,8 +85,7 @@
               "ToolTip": "D:\\Student_Project\\Legal_Helper\\Client.cs [Design]",
               "RelativeToolTip": "Client.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:27:17.476Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-29T15:27:17.476Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T15:18:24.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T15:18:24.74Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAQwC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:58:53.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T14:58:53.041Z"
             },
             {
               "$type": "Document",
@@ -138,8 +133,7 @@
               "ToolTip": "D:\\Student_Project\\Legal_Helper\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:58:52.062Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-29T14:58:52.062Z"
             },
             {
               "$type": "Document",
@@ -151,8 +145,7 @@
               "RelativeToolTip": "admin_user.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:58:45.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T14:58:45.501Z"
             },
             {
               "$type": "Document",
@@ -163,8 +156,7 @@
               "ToolTip": "D:\\Student_Project\\Legal_Helper\\admin_user.cs [Design]",
               "RelativeToolTip": "admin_user.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T14:58:43.659Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-29T14:58:43.659Z"
             },
             {
               "$type": "Document",
@@ -176,8 +168,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-29T14:58:42.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T14:58:42.011Z"
             }
           ]
         }
