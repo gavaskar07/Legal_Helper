@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "Client";
-                    Client au = new Client();
+                    utilities.status= "Client_Advocate";
+                    Client_Advocate au = new Client_Advocate();
                         au.Show();
                  
                 }
