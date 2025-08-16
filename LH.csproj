@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="act.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="act.Designer.cs">
+      <DependentUpon>act.cs</DependentUpon>
+    </Compile>
     <Compile Include="promptt.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="utilities.cs" />
+    <EmbeddedResource Include="act.resx">
+      <DependentUpon>act.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="promptt.resx">
       <DependentUpon>promptt.cs</DependentUpon>
     </EmbeddedResource>

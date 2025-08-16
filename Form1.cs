@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "promptt";
-                    promptt au = new promptt();
+                    utilities.status= "act";
+                    act au = new act();
                         au.Show();
                  
                 }
