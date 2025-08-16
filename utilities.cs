@@ -89,6 +89,11 @@ namespace FH
             return data;
             //dg.DataSource = data.Tables[0];
         }
-}
+
+        internal string iud(object value)
+        {
+            throw new NotImplementedException();
+        }
+    }
    
 }
