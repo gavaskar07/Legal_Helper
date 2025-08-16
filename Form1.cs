@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "workflow";
-                    workflow au = new workflow();
+                    utilities.status= "client_act_workflow";
+                    client_act_workflow au = new client_act_workflow();
                         au.Show();
                  
                 }

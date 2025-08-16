@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client_act_workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\court.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:court.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\court.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:court.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client_act_workflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client_act_workflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client_act_workflow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\workflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:workflow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|c:\\users\\swath\\onedrive\\desktop\\legal_helper\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\admin_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:admin_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\admin_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B05439-204C-47AF-B2E3-3F020F7E6162}|LH.csproj|solutionrelative:admin_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,23 +66,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "court.resx",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.resx",
+              "RelativeDocumentMoniker": "court.resx",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.resx",
+              "RelativeToolTip": "court.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-16T10:35:37.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "court.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.Designer.cs",
+              "RelativeDocumentMoniker": "court.Designer.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.Designer.cs",
+              "RelativeToolTip": "court.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:35:37.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "court.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.cs",
+              "RelativeDocumentMoniker": "court.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.cs",
+              "RelativeToolTip": "court.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:35:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "client_act_workflow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs",
+              "RelativeDocumentMoniker": "client_act_workflow.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs [Design]",
+              "RelativeToolTip": "client_act_workflow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:12:57.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client_act_workflow.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs",
+              "RelativeDocumentMoniker": "client_act_workflow.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.cs",
+              "RelativeToolTip": "client_act_workflow.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:13:05.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:32:33.971Z",
+              "WhenOpened": "2025-08-16T10:03:13.24Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:03:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "utilities.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\utilities.cs",
+              "RelativeDocumentMoniker": "utilities.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\utilities.cs",
+              "RelativeToolTip": "utilities.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:03:13.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "client_act_workflow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.Designer.cs",
+              "RelativeDocumentMoniker": "client_act_workflow.Designer.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.Designer.cs",
+              "RelativeToolTip": "client_act_workflow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:20:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "client_act_workflow.resx",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.resx",
+              "RelativeDocumentMoniker": "client_act_workflow.resx",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\client_act_workflow.resx",
+              "RelativeToolTip": "client_act_workflow.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-16T10:23:19.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -66,83 +204,41 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:22:02.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T10:03:13.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "workflow.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.cs",
-              "RelativeDocumentMoniker": "workflow.cs",
-              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.cs [Design]",
-              "RelativeToolTip": "workflow.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:16:26.718Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "court.cs [Design]",
               "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.cs",
               "RelativeDocumentMoniker": "court.cs",
               "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\court.cs [Design]",
               "RelativeToolTip": "court.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:06:37.215Z",
+              "WhenOpened": "2025-08-16T10:12:21.838Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "workflow.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.Designer.cs",
-              "RelativeDocumentMoniker": "workflow.Designer.cs",
-              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.Designer.cs",
-              "RelativeToolTip": "workflow.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "admin_user.cs",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\admin_user.cs",
+              "RelativeDocumentMoniker": "admin_user.cs",
+              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\admin_user.cs",
+              "RelativeToolTip": "admin_user.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:16:17.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T10:03:13.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "workflow.cs",
-              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.cs",
-              "RelativeDocumentMoniker": "workflow.cs",
-              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\workflow.cs",
-              "RelativeToolTip": "workflow.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBMAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "admin_user.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\admin_user.cs",
+              "RelativeDocumentMoniker": "admin_user.cs",
+              "ToolTip": "E:\\Project\\Legal_Helper\\admin_user.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:16:03.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T18:12:02.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Client.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Client.cs",
-              "RelativeDocumentMoniker": "Client.cs",
-              "ToolTip": "C:\\Users\\swath\\OneDrive\\Desktop\\Legal_Helper\\Client.cs [Design]",
-              "RelativeToolTip": "Client.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T11:08:59.158Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-16T10:03:13.24Z"
             }
           ]
         }
