@@ -53,3 +53,16 @@ D:\Research_Project\Legal_Helper\obj\Debug\LH.csproj.CoreCompileInputs.cache
 D:\Research_Project\Legal_Helper\obj\Debug\LH.exe
 D:\Research_Project\Legal_Helper\obj\Debug\LH.pdb
 D:\Research_Project\Legal_Helper\obj\Debug\LH.Client_Advocate.resources
+E:\Project\Legal_Helper\bin\Debug\LH.exe.config
+E:\Project\Legal_Helper\bin\Debug\LH.exe
+E:\Project\Legal_Helper\bin\Debug\LH.pdb
+E:\Project\Legal_Helper\obj\Debug\LH.csproj.AssemblyReference.cache
+E:\Project\Legal_Helper\obj\Debug\LH.exe.config
+E:\Project\Legal_Helper\obj\Debug\LH.Client_Advocate.resources
+E:\Project\Legal_Helper\obj\Debug\LH.admin_user.resources
+E:\Project\Legal_Helper\obj\Debug\LH.Form1.resources
+E:\Project\Legal_Helper\obj\Debug\LH.Properties.Resources.resources
+E:\Project\Legal_Helper\obj\Debug\LH.csproj.GenerateResource.cache
+E:\Project\Legal_Helper\obj\Debug\LH.csproj.CoreCompileInputs.cache
+E:\Project\Legal_Helper\obj\Debug\LH.exe
+E:\Project\Legal_Helper\obj\Debug\LH.pdb
