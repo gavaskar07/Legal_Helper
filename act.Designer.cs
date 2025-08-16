@@ -38,13 +38,6 @@
             this.f3 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.grd = new System.Windows.Forms.DataGridView();
-            this.cmd_clear = new System.Windows.Forms.Button();
-            this.cmd_delete = new System.Windows.Forms.Button();
-            this.cmd_save = new System.Windows.Forms.Button();
-            this.f2 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.f1 = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Sno = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Pass = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -52,6 +45,13 @@
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.cmd_clear = new System.Windows.Forms.Button();
+            this.cmd_delete = new System.Windows.Forms.Button();
+            this.cmd_save = new System.Windows.Forms.Button();
+            this.f2 = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.f1 = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.grd)).BeginInit();
             this.SuspendLayout();
@@ -176,6 +176,56 @@
             this.grd.TabIndex = 9;
             this.grd.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grd_CellContentClick);
             // 
+            // id
+            // 
+            this.id.HeaderText = "id";
+            this.id.MinimumWidth = 10;
+            this.id.Name = "id";
+            this.id.Visible = false;
+            this.id.Width = 200;
+            // 
+            // Sno
+            // 
+            this.Sno.HeaderText = "Sno";
+            this.Sno.MinimumWidth = 10;
+            this.Sno.Name = "Sno";
+            this.Sno.Width = 200;
+            // 
+            // Pass
+            // 
+            this.Pass.HeaderText = "act_name";
+            this.Pass.MinimumWidth = 10;
+            this.Pass.Name = "Pass";
+            this.Pass.Width = 200;
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "year";
+            this.Column1.MinimumWidth = 10;
+            this.Column1.Name = "Column1";
+            this.Column1.Width = 200;
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "Type";
+            this.Column2.MinimumWidth = 10;
+            this.Column2.Name = "Column2";
+            this.Column2.Width = 200;
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "Description";
+            this.Column3.MinimumWidth = 10;
+            this.Column3.Name = "Column3";
+            this.Column3.Width = 200;
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "File path";
+            this.Column4.MinimumWidth = 10;
+            this.Column4.Name = "Column4";
+            this.Column4.Width = 200;
+            // 
             // cmd_clear
             // 
             this.cmd_clear.Location = new System.Drawing.Point(653, 502);
@@ -239,63 +289,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(134, 72);
+            this.label1.Location = new System.Drawing.Point(124, 72);
             this.label1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label1.Size = new System.Drawing.Size(125, 30);
             this.label1.TabIndex = 2;
             this.label1.Text = "act_name";
-            // 
-            // id
-            // 
-            this.id.HeaderText = "id";
-            this.id.MinimumWidth = 10;
-            this.id.Name = "id";
-            this.id.Visible = false;
-            this.id.Width = 200;
-            // 
-            // Sno
-            // 
-            this.Sno.HeaderText = "Sno";
-            this.Sno.MinimumWidth = 10;
-            this.Sno.Name = "Sno";
-            this.Sno.Width = 200;
-            // 
-            // Pass
-            // 
-            this.Pass.HeaderText = "act_name";
-            this.Pass.MinimumWidth = 10;
-            this.Pass.Name = "Pass";
-            this.Pass.Width = 200;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "year";
-            this.Column1.MinimumWidth = 10;
-            this.Column1.Name = "Column1";
-            this.Column1.Width = 200;
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "Type";
-            this.Column2.MinimumWidth = 10;
-            this.Column2.Name = "Column2";
-            this.Column2.Width = 200;
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "Description";
-            this.Column3.MinimumWidth = 10;
-            this.Column3.Name = "Column3";
-            this.Column3.Width = 200;
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "File path";
-            this.Column4.MinimumWidth = 10;
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 200;
             // 
             // act
             // 

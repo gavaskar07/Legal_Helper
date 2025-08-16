@@ -58,3 +58,4 @@ C:\Users\swath\OneDrive\Desktop\Legal_Helper\obj\Debug\LH.client_act_workflow.re
 C:\Users\swath\OneDrive\Desktop\Legal_Helper\obj\Debug\LH.student.resources
 C:\Users\swath\OneDrive\Desktop\Legal_Helper\obj\Debug\LH.promptt.resources
 C:\Users\swath\OneDrive\Desktop\Legal_Helper\obj\Debug\LH.act.resources
+C:\Users\swath\OneDrive\Desktop\Legal_Helper\obj\Debug\LH.section.resources

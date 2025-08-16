@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "act";
-                    act au = new act();
+                    utilities.status= "section";
+                    section au = new section();
                         au.Show();
                  
                 }
