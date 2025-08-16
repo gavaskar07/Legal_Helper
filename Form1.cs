@@ -16,10 +16,10 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace LH
 {
-    public partial class Form1 : Form
+    public partial class Advocate_case_court : Form
     {
         OleDbConnection myconnection = new OleDbConnection();
-        public Form1()
+        public Advocate_case_court()
         {
             InitializeComponent();
         }
@@ -42,8 +42,8 @@ namespace LH
                 OleDbDataReader reader = cmd.ExecuteReader();
                 if (reader.HasRows)
                 {
-                    utilities.status= "Client_Advocate";
-                    Client_Advocate au = new Client_Advocate();
+                    utilities.status= "Advocate_case_court";
+                    Advocate_case_court au = new Advocate_case_court();
                         au.Show();
                  
                 }
