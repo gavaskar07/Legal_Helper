@@ -40,3 +40,17 @@ D:\Student_Project\Legal_Helper\obj\Debug\LH.csproj.CoreCompileInputs.cache
 D:\Student_Project\Legal_Helper\obj\Debug\LH.exe
 D:\Student_Project\Legal_Helper\obj\Debug\LH.pdb
 D:\Student_Project\Legal_Helper\obj\Debug\LH.Client.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.csproj.AssemblyReference.cache
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.exe.config
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.Rules.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.Client.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.admin_user.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.Form1.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.Properties.Resources.resources
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.csproj.GenerateResource.cache
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.csproj.CoreCompileInputs.cache
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.exe
+C:\Users\prana\Downloads\Legal_Helper\obj\Debug\LH.pdb
+C:\Users\prana\Downloads\Legal_Helper\bin\Debug\LH.exe.config
+C:\Users\prana\Downloads\Legal_Helper\bin\Debug\LH.exe
+C:\Users\prana\Downloads\Legal_Helper\bin\Debug\LH.pdb
